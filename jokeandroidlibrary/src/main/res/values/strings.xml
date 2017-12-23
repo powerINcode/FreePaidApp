@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jokeAndroidLibrary</string>
+    <string name="title_activity_joke">JokeActivity</string>
+</resources>
